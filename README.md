@@ -89,7 +89,7 @@ The LSTM model demonstrates strong performance across multiple metrics:
 
 For detailed technical documentation and analysis (in French), please refer to:
 
-**[📋 Click here to see project report (French version)](link-to-your-french-report)**
+**[📋 Click here to see project report (French version)](rapport_lstm.pdf)**
 
 ## 🙏 Acknowledgments
 
