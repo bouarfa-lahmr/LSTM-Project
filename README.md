@@ -67,6 +67,13 @@ The LSTM model demonstrates strong performance across multiple metrics:
 - **Visual Analysis**: Close alignment between predicted and actual price curves
 - **Temporal Consistency**: Maintains chronological data integrity
 
+## 📈 Model Results
+
+This is the result after training the model:
+
+![Model Results](img.PNG)
+
+
 ### Performance Metrics
 - Mean Squared Error (MSE) calculated for both training and test sets
 - Visual comparison charts for each stock
