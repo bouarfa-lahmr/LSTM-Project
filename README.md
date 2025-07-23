@@ -98,9 +98,4 @@ For detailed technical documentation and analysis (in French), please refer to:
 
 **[📋 Click here to see project report (French version)](rapport_lstm.pdf)**
 
-## 🙏 Acknowledgments
-
-- Yahoo Finance for providing accessible financial data
-- TensorFlow team for the excellent deep learning framework
-- The open-source community for valuable libraries and tools
 
